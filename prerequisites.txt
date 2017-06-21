@@ -1,0 +1,5 @@
+1. Install Node.js (from http://nodejs.org)
+2. Install Angular CLI from node
+	syntax: npm install -g @angular/cli
+3. Traverse to the folder and run the server with the following command
+	syntax: ng serve --open
